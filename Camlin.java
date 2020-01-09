@@ -1,3 +1,4 @@
+/*The following java program demonstrates how  to compare the state of two objects without using comparator*/
 import java.util.*;
 class myException extends Exception
 {
